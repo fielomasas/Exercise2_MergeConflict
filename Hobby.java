@@ -4,6 +4,7 @@ public class Hobby {
         displayTraineeHobbyB();
         displayTraineeHobbyC();
         displayTraineeHobbyD();
+        displayTraineeHobbyE();
     }
 
     public static void displayTraineeHobbyC() {
@@ -29,4 +30,9 @@ public class Hobby {
         System.out.println("Trainee D’s Hobbies: PLaying Online Gamess");
         // Hobbies of Trainee X will be added here
         }
+
+    public static void displayTraineeHobbyE() {
+        System.out.println("Trainee E’s Hobbies: Onaji koto wo kurikaeshimasu");
+        // Hobbies of Trainee X will be added here
+    }
 }
