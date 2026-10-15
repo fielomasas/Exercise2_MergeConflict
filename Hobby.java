@@ -19,6 +19,7 @@ public class Hobby {
 
     public static void displayTraineeHobbyB() {
         System.out.println("Trainee B’s Hobbies: PLaying Online Games and Reading Ma(nga/nhwa/nhua)");
+        System.out.println("Trainee B’s Hobbies: PLaying Online Gamess");
         // Hobbies of Trainee X will be added here
         }
 }
