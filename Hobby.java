@@ -3,6 +3,7 @@ public class Hobby {
         displayTraineeHobbyA();
         displayTraineeHobbyB();
         displayTraineeHobbyC();
+        displayTraineeHobbyD();
     }
 
     public static void displayTraineeHobbyC() {
@@ -23,7 +24,7 @@ public class Hobby {
         // Hobbies of Trainee X will be added here
         }
 
-    public static void displayTraineeHobbyB() {
+    public static void displayTraineeHobbyD() {
         System.out.println("Trainee D’s Hobbies: PLaying Online Games and Reading Ma(nga/nhwa/nhua)");
         System.out.println("Trainee D’s Hobbies: PLaying Online Gamess");
         // Hobbies of Trainee X will be added here
