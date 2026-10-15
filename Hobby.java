@@ -4,6 +4,7 @@ public class Hobby {
         displayTraineeHobbyB();
         displayTraineeHobbyC();
     }
+<<<<<<< HEAD
 
     public static void displayTraineeHobbyA() {
         System.out.println("Trainee X’s Hobbies:");
@@ -14,3 +15,10 @@ public class Hobby {
         System.out.println("4. Musical Theaters");
     }
 }
+=======
+    public static void displayTraineeHobbyB() {
+        System.out.println("Trainee B’s Hobbies: PLaying Online Games and Reading Ma(nga/nhwa/nhua)");
+        // Hobbies of Trainee X will be added here
+        }
+}
+>>>>>>> montano
