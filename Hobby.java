@@ -6,6 +6,9 @@ public class Hobby {
     }
 <<<<<<< HEAD
 
+    public static void displayTraineeHobbyC() {
+    System.out.println("Trainee C’s Hobbies: Guitar wo hikimasu");
+   
     public static void displayTraineeHobbyA() {
         System.out.println("Trainee X’s Hobbies:");
         // Hobbies of Trainee X will be added here
