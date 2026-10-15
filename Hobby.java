@@ -4,4 +4,9 @@ public class Hobby {
         displayTraineeHobbyB();
         displayTraineeHobbyC();
     }
+
+    public static void displayTraineeHobbyC() {
+    System.out.println("Trainee C’s Hobbies: Guitar wo hikimasu");
+   
+    }
 }
